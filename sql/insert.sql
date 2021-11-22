@@ -1,0 +1,14 @@
+insert into trash_days values("燃やすゴミ", 0, "火曜日");
+insert into trash_days values("燃やすゴミ", 0, "金曜日");
+insert into trash_days values("プラスチックゴミ", 0, "水曜日");
+insert into trash_days values("ペットボトル", 0, "水曜日");
+insert into trash_days values("燃やさないゴミ", 2, "月曜日");
+insert into trash_days values("燃やさないゴミ", 4, "月曜日");
+insert into trash_days values("有害ゴミ", 2, "月曜日");
+insert into trash_days values("有害ゴミ", 4, "月曜日");
+insert into trash_days values("ビン", 1, "月曜日");
+insert into trash_days values("ビン", 3, "月曜日");
+insert into trash_days values("カン", 2, "木曜日");
+insert into trash_days values("カン", 4, "木曜日");
+insert into trash_days values("紙・布", 1, "木曜日");
+insert into trash_days values("カン", 3, "木曜日");
